@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DistributionOrder>
+  <DistributionOrderId>XF0027861017</DistributionOrderId>
+  <OrderType>XF</OrderType>
+  <OrderedDttm>08/05/2025 00:00</OrderedDttm>
+  <DoFulfillmentStatus>Released</DoFulfillmentStatus>
+  <IsCancelled>false</IsCancelled>
+  <BusinessUnit>1</BusinessUnit>
+  <ReferenceField3>FC</ReferenceField3>
+  <ReferenceField4>FC00469556</ReferenceField4>
+  <PickupStartDttm>08/05/2025 10:35</PickupStartDttm>
+  <PickupEndDttm>08/06/2025 10:35</PickupEndDttm>
+  <DeliveryStartDttm>08/05/2025 10:35</DeliveryStartDttm>
+  <DeliveryEndDttm>08/06/2025 10:35</DeliveryEndDttm>
+  <LpnCubingIndicator>51</LpnCubingIndicator>
+  <PartlShipConfFlag>true</PartlShipConfFlag>
+  <ContentLabelType>001</ContentLabelType>
+  <LpnLabelType>002</LpnLabelType>
+  <OriginFacilityAliasId>432</OriginFacilityAliasId>
+  <DestinationFacilityAliasId>309</DestinationFacilityAliasId>
+  <RouteTo>309</RouteTo>
+  <DistributionOrderType>Store Distributions</DistributionOrderType>
+  <LineItems>
+    <LineItem>
+      <Name>20842482</Name>
+      <DoLineNumber>20842482</DoLineNumber>
+      <FulfillmentType>3</FulfillmentType>
+      <StoreDepartment>HN</StoreDepartment>
+      <MerchandizeGroup>HN</MerchandizeGroup>
+      <AllocationSourceId>46999927</AllocationSourceId>
+      <AllocationSourceType>PO</AllocationSourceType>
+      <AllocationSourceLineId>229293593</AllocationSourceLineId>
+      <ShelfDays>0</ShelfDays>
+      <Weight>
+        <Uom>KGM</Uom>
+        <Planned>1.5</Planned>
+      </Weight>
+      <Quantity>
+        <Uom>unit</Uom>
+        <Order>12</Order>
+      </Quantity>
+      <InventoryAttributes>
+        <BatchNumber>*</BatchNumber>
+        <InventoryType>T</InventoryType>
+        <CountryOfOrigin>*</CountryOfOrigin>
+      </InventoryAttributes>
+    </LineItem>
+  </LineItems>
+</DistributionOrder>
